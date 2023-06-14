@@ -180,7 +180,7 @@ public class frameAdminn extends javax.swing.JFrame {
         data.insertkatasandi(txtkatasandi.getText());
         data.insertjabatan(txtjabatan.getText());
         
-        JOptionPane.showMessageDialog(this, "Array Berhasil Disimpan JO");
+        JOptionPane.showMessageDialog(this, "Array Berhasil Disimpan Bro");
         
     }//GEN-LAST:event_jButton1ActionPerformed
 
